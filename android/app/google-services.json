@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "535893186920",
+    "project_id": "personal-finance-tracker-c9593",
+    "storage_bucket": "personal-finance-tracker-c9593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:535893186920:android:cefb4f94299b191e9bdedd",
+        "android_client_info": {
+          "package_name": "com.example.personal_finance_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTxm5perkAHpK0miyZfot0jz-dcYrdr5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
